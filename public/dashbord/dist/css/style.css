@@ -1,0 +1,46 @@
+div#logo_change {
+    margin-top: 42px;
+    margin-left: 35px;
+}
+section.content-header {
+    padding-top: 29px;
+    padding-bottom: 20px;
+}
+
+div#order_list {
+    padding-left: 20px;
+}
+button.btn.btn-primary.btn-lg.mb-5 {
+    margin-bottom: 16px;
+}
+nav#praganation {
+    display: flex;
+    justify-content: center;
+}
+a#navbarDropdown {
+    color: #fff;
+}
+
+
+form#form button {
+    display: inline;
+    float: left;
+}
+#bg-red {
+    background-color: #dd4b39 !important;
+    padding: 4px 8px;
+    border-radius: 50%;
+    width: 24px;
+    height: 25px;
+}
+
+div#navbarSupportedContent a.dropdown-item:hover {
+    background: #3c8dbc;
+}
+form#catUp {
+    display: block;
+    float: left;
+}
+.something td{
+    width: 30px;
+  }
